@@ -12,7 +12,7 @@ Link do vídeo abixo
 
 https://www.youtube.com/watch?v=cz7AoKGcwlY&ab_channel=CursoemV%C3%ADdeo
 
-Link do site hopedado no githube pages
+Link do site hopedado no github pages
 
 https://francisco-jose-vieira.github.io/projeto-cordel/
 
