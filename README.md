@@ -8,13 +8,16 @@ Projeto da criação de um cordel, utilizando HTML e CSS.
 
 Projeto criado durante as aulas do curso de HTML5 e CSS3 do professor @gustavoguanabara
 
-Link do vídeo abixo
+Link do vídeo abaixo
 
 https://www.youtube.com/watch?v=cz7AoKGcwlY&ab_channel=CursoemV%C3%ADdeo
 
-Link do site hopedado no github pages
+Link do site hospedado no github 
 
 https://francisco-jose-vieira.github.io/projeto-cordel/
+
+
+
 
 
 
