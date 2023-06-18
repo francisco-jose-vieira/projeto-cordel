@@ -1,4 +1,3 @@
-
 # Projeto cordel
 
 
@@ -12,10 +11,9 @@ Projeto criado durante as aulas do curso de HTML5 e CSS3 do professor @gustavogu
 
 https://www.youtube.com/watch?v=cz7AoKGcwlY&ab_channel=CursoemV%C3%ADdeo
 
-**Link do site hospedado no github** 
+**Link do site hospedado** 
 
 https://projeto-cordel-sigma.vercel.app/
-
 
 
 
